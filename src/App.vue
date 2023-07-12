@@ -3,7 +3,7 @@ import AppTitle from './components/AppTitle.vue'
 </script>
 
 <template>
-  <AppTitle title= "La mia prima app con Vite!" />
+  <AppTitle />
 </template>
 
 <style scoped>

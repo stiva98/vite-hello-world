@@ -2,8 +2,10 @@
 
 export default {
 
-  props: {
-    title: String,
+  data () {
+    return {
+      title: 'La mia prima app con Vite!'
+    }
   }
 
 }
